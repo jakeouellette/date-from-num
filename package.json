@@ -1,0 +1,28 @@
+{
+  "name": "date-from-num",
+  "version": "1.0.0",
+  "description": "Return a date from seconds or milliseconds",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/timhudson/date-from-num.git"
+  },
+  "keywords": [
+    "date",
+    "epoch",
+    "seconds",
+    "milliseconds"
+  ],
+  "author": "Tim Hudson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/timhudson/date-from-num/issues"
+  },
+  "homepage": "https://github.com/timhudson/date-from-num",
+  "devDependencies": {
+    "tape": "^2.14.0"
+  }
+}
