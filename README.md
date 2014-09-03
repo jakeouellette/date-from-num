@@ -7,7 +7,7 @@ Return a date from seconds or milliseconds
 ## Example
 
 If it's greater than `252489600000`, it's milliseconds. This covers dates
-since _January 1st 1978 in milliseconds_, and dates through the year _9970_ in seconds.
+since _January 1st 1978_ in milliseconds, and dates through the year _9970_ in seconds.
 
 ``` js
 var dateFromNum = require('date-from-num')
